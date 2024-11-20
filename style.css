@@ -1,0 +1,11 @@
+.text{
+    width: 100%;
+    border: 1px solid black;
+    border-color:lightgreen;
+    text-align: center;
+}
+.text, th, td {
+    border: 1px solid green; 
+    color:hotpink
+}
+
